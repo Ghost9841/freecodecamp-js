@@ -48,3 +48,6 @@ function getGrade(score) {
 console.log(getGrade(96));
 console.log(getGrade(82));
 console.log(getGrade(56));
+
+
+// Go to hasPassingGrade.js for Step 3;
